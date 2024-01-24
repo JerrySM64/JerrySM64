@@ -27,13 +27,23 @@ Here are some ideas to get you started:
 ### 😄 About me
 I am Jerry, nice to meet you! I'm a 22 years old dude who loves to code. Been a Linux user on and off since 2013 and full time since late 2021.
 
-### 🖥️ Meet my computer "Green Demon"
-- OS: NixOS unstable
-- CPU: AMD Ryzen 5 3600
-- RAM: 32 GB G.Skill Aegis DDR4-3200 (dual kit)
-- GPU: Gigabyte Eagle Radeon RX 6650 XT
-- PSU: 650 Watt be_quiet! Pure Power 11
-- Sound card: Asus Xonar DX
+### 🖥️ Meet my computers 
+#### "Green Demon"
+- **OS:** NixOS unstable
+- **CPU:** AMD Ryzen 5 3600
+- **RAM:** 32 GB G.Skill Aegis DDR4-3200 (dual kit)
+- **GPU:** Gigabyte Eagle Radeon RX 6650 XT
+- **PSU:** 650 Watt be_quiet! Pure Power 11
+- **Sound card:** Asus Xonar DX
+
+#### My Mac
+- **Model:** Mac mini (M1, 2020)
+- **OS:** macOS Sonoma (NixOS unstable when it's a bit more stable)
+- **CPU:** Apple M1
+- **RAM:** 8 GB
+- **Storage:** 512 GB
+
+#### Peripherals
 - Keyboard: Logitech G815
 - Mouse: Some cheapo ergonomic mouse
 - 2 monitors
