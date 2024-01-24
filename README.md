@@ -38,7 +38,7 @@ I am Jerry, nice to meet you! I'm a 22 years old dude who loves to code. Been a 
 
 #### My Mac
 - **Model:** Mac mini (M1, 2020)
-- **OS:** macOS Sonoma (NixOS unstable when it's a bit more stable)
+- **OS:** macOS Sonoma (NixOS unstable when the Asahi stuff is a bit more stable)
 - **CPU:** Apple M1
 - **RAM:** 8 GB
 - **Storage:** 512 GB
