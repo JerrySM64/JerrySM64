@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </a></p>
 
 ### 😄 About me
-I am Jerry, nice to meet you! I'm a 22 years old dude from Germany who loves to code. Been a Linux user on and off since 2013 and full time since late 2021.
+I am Jerry, nice to meet you! I'm a 22 years old German dude who loves to code. Been a Linux user on and off since 2013 and full time since late 2021.
 
 ### 🖥️ Meet my computers 
 #### "Green Demon"
@@ -43,8 +43,11 @@ I am Jerry, nice to meet you! I'm a 22 years old dude from Germany who loves to 
 - **RAM:** 8 GB
 - **Storage:** 512 GB
 
-#### Peripherals
-- Keyboard: Logitech G815
+#### Keyboards
+- **Coding:** Logitech G815 (German Dvorak Type II Layout)
+- **Gaming:** RAzer Blackwidow Chroma V2 (German QWERTZ Layout)
+
+#### Other Peripherals
 - Mouse: Some cheapo ergonomic mouse
 - 2 monitors
 
