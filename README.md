@@ -45,7 +45,7 @@ I am Jerry, nice to meet you! I'm a 22 years old German dude who loves to code. 
 
 #### Keyboards
 - **Coding:** Logitech G815 (German Dvorak Type II Layout)
-- **Gaming:** RAzer Blackwidow Chroma V2 (German QWERTZ Layout)
+- **Gaming:** Razer Blackwidow Chroma V2 (German QWERTZ Layout)
 
 #### Other Peripherals
 - Mouse: Some cheapo ergonomic mouse
