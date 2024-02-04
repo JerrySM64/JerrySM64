@@ -38,14 +38,13 @@ I am Jerry, nice to meet you! I'm a 22 years old German dude who loves to code. 
 
 #### My Mac
 - **Model:** Mac mini (M1, 2020)
-- **OS:** macOS Sonoma (NixOS unstable when the Asahi stuff is a bit more stable)
+- **OS:** macOS Ventura (NixOS unstable when the Asahi stuff is a bit more mature)
 - **CPU:** Apple M1
 - **RAM:** 8 GB
 - **Storage:** 512 GB
 
 #### Keyboards
 - **Coding:** Logitech G815
-- **Gaming:** Razer Blackwidow Chroma V2
 
 #### Other Peripherals
 - Mouse: Some cheapo ergonomic mouse
