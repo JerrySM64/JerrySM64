@@ -30,7 +30,7 @@ I am Jerry, nice to meet you! I'm a 22 years old German dude who loves to code. 
 ### 🖥️ Meet my computers 
 #### "Green Demon"
 - **OS:** NixOS unstable
-- **CPU:** AMD Ryzen 5 3600
+- **CPU:** AMD Ryzen 7 5800X
 - **RAM:** 32 GB G.Skill Aegis DDR4-3200 (dual kit)
 - **GPU:** Gigabyte Eagle Radeon RX 6650 XT
 - **PSU:** 650 Watt be_quiet! Pure Power 11
@@ -38,13 +38,13 @@ I am Jerry, nice to meet you! I'm a 22 years old German dude who loves to code. 
 
 #### My Mac
 - **Model:** Mac mini (M1, 2020)
-- **OS:** macOS Ventura (NixOS unstable when the Asahi stuff is a bit more mature)
+- **OS:** macOS Sonoma
 - **CPU:** Apple M1
 - **RAM:** 8 GB
 - **Storage:** 512 GB
 
-#### Keyboards
-- **Coding:** Logitech G815
+#### Keyboard
+- Logitech G815
 
 #### Other Peripherals
 - Mouse: Some cheapo ergonomic mouse
