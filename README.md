@@ -52,5 +52,4 @@ I am Jerry, nice to meet you! I'm a 22 years old German dude who loves to code. 
 
 ### 📫 You can also find me here
 - GitLab     : <https://gitlab.com/JerrySM64>
-- Instagram  : <https://instagram.com/jerrysm64>
 - Discord    : jerrysm64
