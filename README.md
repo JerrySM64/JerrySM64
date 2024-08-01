@@ -17,15 +17,21 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jerrysm64&show_icons=true&theme=chartreuse-dark" />
 </a></p>
 
-<p align="center"><a href="https://github.com/jerrysm64/dotfiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jerrysm64&repo=dotfiles&show_icons=true&theme=chartreuse-dark&locale=de" />
+<p align="center"><a href="https://github.com/JerrySM64/Qtile-Debian">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jerrysm64&repo=Qtile-Debian&show_icons=true&theme=chartreuse-dark&locale=de" />
 </a>
 <a href="https://github.com/jerrysm64/xwayland-video-bridge-quick-setup">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jerrysm64&repo=xwayland-video-bridge-quick-setup&show_icons=true&theme=chartreuse-dark&locale=de" />
+</a>
+<a href="https://github.com/JerrySM64/macOS-DE">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jerrysm64&repo=macOS-DE&show_icons=true&theme=chartreuse-dark&locale=de" />
+</a>
+<a href="https://github.com/JerrySM64/NeoSplit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jerrysm64&repo=NeoSplit&show_icons=true&theme=chartreuse-dark&locale=de" />
 </a></p>
 
 ### 😄 About me
-I am Jerry, nice to meet you! I'm a 22 years old German dude who loves to code. Been a Linux user on and off since 2013 and full time since late 2021.
+I am Jerry, nice to meet you! I'm a 22 years old German dude who loves to code. Been a Linux user on and off since 2013 and full time from late 2021 to early 2024. Mostly using macOS since then. That doesn't mean I don't engage in Linux-related projects anymore though. ;D
 
 ### 🖥️ Meet my computers 
 #### "Green Demon"
@@ -44,11 +50,13 @@ I am Jerry, nice to meet you! I'm a 22 years old German dude who loves to code. 
 - **Storage:** 512 GB
 
 #### Keyboard
-- Logitech G815
+- Logitech G815 (Green Demon)
+- Apple Magic Keyboard 2. Generation (Mac)
 
-#### Other Peripherals
-- Mouse: Some cheapo ergonomic mouse
-- 2 monitors
+#### Mouse
+- Some cheapo ergonomic mouse (Green Demon, rarely Mac)
+- Apple Magic Trackpad 2. Generation (The all black one that came with the iMac Pro | Mac)
+
 
 ### 📫 You can also find me here
 - GitLab     : <https://gitlab.com/JerrySM64>
