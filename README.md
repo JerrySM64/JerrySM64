@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# On temporary hiatus. I'll be back soon.
-
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jerrysm64&show_icons=true&theme=chartreuse-dark" />
 </a></p>
@@ -32,11 +30,11 @@ Here are some ideas to get you started:
 </a></p>
 
 ### 😄 About me
-I am Jerry, nice to meet you! I'm a 22 years old German dude who loves to code. Been a Linux user on and off since 2013 and full time from late 2021 to early 2024. Mostly using macOS since then. That doesn't mean I don't engage in Linux-related projects anymore though. ;D
+I am Jerry, nice to meet you! I'm a 23 years old German dude who loves to code. Been a Linux user on and off since 2013 and full time from late 2021 to early 2024. Mostly using macOS since then. That doesn't mean I don't engage in Linux-related projects anymore though. ;D
 
 ### 🖥️ Meet my computers 
 #### "Green Demon"
-- **OS:** NixOS unstable
+- **OS:** *Changes too often. It's mostly Linux though.*
 - **CPU:** AMD Ryzen 7 5800X
 - **RAM:** 32 GB G.Skill Aegis DDR4-3200 (dual kit)
 - **GPU:** Gigabyte Eagle Radeon RX 6650 XT
@@ -45,7 +43,7 @@ I am Jerry, nice to meet you! I'm a 22 years old German dude who loves to code. 
 
 #### My Mac
 - **Model:** Mac mini (M1, 2020)
-- **OS:** macOS Sonoma
+- **OS:** macOS Sequoia
 - **CPU:** Apple M1
 - **RAM:** 8 GB
 - **Storage:** 512 GB
