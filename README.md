@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </a></p>
 
 ### 😄 About me
-I am Jerry, nice to meet you! I'm a 23 years old German dude who loves to code. Been a Linux user on and off since 2013 and full time from late 2021 to early 2024. Mostly using macOS since then. That doesn't mean I don't engage in Linux-related projects anymore though. ;D
+I am Jerry, nice to meet you! I'm a 23 years old German dude who loves to code. Been a Linux user on and off since 2013 and full time since late 2021. Also using macOS a lot.
 
 ### 🖥️ Meet my computers 
 #### "Green Demon"
