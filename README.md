@@ -1,7 +1,7 @@
-### 😄 About me
+### About me
 I am Jerry, nice to meet you! I'm a 24 years old German dude who loves to code. Been a Linux user on and off since 2013 and full time since late 2021. Also using macOS a lot.
 
-### 🖥️ Meet my computers 
+### Meet my computers 
 #### "Green Demon"
 - **OS:** *Changes too often. It's mostly Linux though.*
 - **CPU:** AMD Ryzen 7 5800X
@@ -26,6 +26,6 @@ I am Jerry, nice to meet you! I'm a 24 years old German dude who loves to code. 
 - Apple Magic Trackpad 2. Generation (The all black one that came with the iMac Pro | Mac)
 
 
-### 📫 You can also find me here
+### You can also find me here
 - GitLab     : <https://gitlab.com/JerrySM64>
 - Discord    : jerrysm64
