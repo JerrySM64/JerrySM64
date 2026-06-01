@@ -1,34 +1,3 @@
-<!--
-**JerrySM64/JerrySM64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jerrysm64&show_icons=true&theme=chartreuse-dark" />
-</a></p>
-
-<p align="center"><a href="https://github.com/JerrySM64/Qtile-Debian">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jerrysm64&repo=Qtile-Debian&show_icons=true&theme=chartreuse-dark&locale=de" />
-</a>
-<a href="https://github.com/jerrysm64/xwayland-video-bridge-quick-setup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jerrysm64&repo=xwayland-video-bridge-quick-setup&show_icons=true&theme=chartreuse-dark&locale=de" />
-</a>
-<a href="https://github.com/JerrySM64/PNIDGrab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jerrysm64&repo=PNIDGrab&show_icons=true&theme=chartreuse-dark&locale=de" />
-</a>
-<a href="https://github.com/JerrySM64/NeoSplit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jerrysm64&repo=NeoSplit&show_icons=true&theme=chartreuse-dark&locale=de" />
-</a></p>
-
 ### 😄 About me
 I am Jerry, nice to meet you! I'm a 24 years old German dude who loves to code. Been a Linux user on and off since 2013 and full time since late 2021. Also using macOS a lot.
 
